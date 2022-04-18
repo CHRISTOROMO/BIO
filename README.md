@@ -1,5 +1,5 @@
 
-<h1 align="center"> Hello <img src = "https://raw.githubusercontent.com/CHRISTOROMO/CHRISTOROMO/master/wave.gif" width="30px">, I'm <a href="https://CHRISTOROMO.github.io/My-Portfolio/index.html">CHRISTOPHER TOROMO</a> </h1>
+<h1 align="center"> Hello!, I'm <a href="https://CHRISTOROMO.github.io/My-Portfolio/index.html">CHRISTOPHER TOROMO</a> </h1>
 
 <h3 align="center">I'm a passionate Data Scientist and Machine Learning Engineer.</h3>
 
