@@ -10,7 +10,7 @@
 
 - 📫 You can reach me via **christophertoromo@gmail.com**
 
-- 👨‍💻 All of my projects are available at [CHRISTOROMO](https://CHRISTOROMO.github.com)
+- 👨‍💻 All of my projects are available at [CHRISTOROMO](https://github.com/CHRISTOROMO?tab=repositories)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
