@@ -1,6 +1,6 @@
 <h1 align="center"> Hello! I'm <a href="https://CHRISTOROMO.github.io/My-Portfolio/index.html">CHRISTOPHER TOROMO</a> </h1>
 
-<h3 align="center">I'm a passionate Data Scientist and Machine Learning Engineer.</h3>
+<h3 align="center">A passionate Data Scientist and Machine Learning Engineer.</h3>
 
 #### My Profile Visits 
 
