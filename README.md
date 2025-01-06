@@ -4,7 +4,7 @@
 
 #### My Profile Visits 
 
-![visitors](https://visitor-count.services/api/CHRISTOROMO.svg)
+![](https://komarev.com/ghpvc/?username=CHRISTOROMO)
 
 - 💬 Ask me about **Anything Data-related**
 
