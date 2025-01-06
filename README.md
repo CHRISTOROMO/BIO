@@ -3,7 +3,7 @@
 <h3 align="center">A passionate Data Scientist and Machine Learning Engineer.</h3>
 
 #### My Profile Visits 
-<img src="https://freshidea.com/jonah/app/CHRISTOROMO">
+<img title="views" src="https://freshidea.com/jonah/app/simple-view-counter">
 
 <div align="center">
         <img alt="Visitor Stats" 
