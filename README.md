@@ -4,7 +4,7 @@
 
 #### My Profile Visits 
 
-![visitors](https://hits.red/github.svg?user=CHRISTOROMO)
+![visitors](https://visitor-count.services/api/CHRISTOROMO.svg)
 
 - 💬 Ask me about **Anything Data-related**
 
