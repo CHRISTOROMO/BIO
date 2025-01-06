@@ -4,7 +4,7 @@
 
 #### My Profile Visits 
 
-![](https://komarev.com/ghpvc/?username=CHRISTOROMO)
+![](https://komarev.com/ghpvc/?username=CHRISTOROMO&color=green)
 
 - 💬 Ask me about **Anything Data-related**
 
