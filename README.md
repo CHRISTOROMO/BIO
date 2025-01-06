@@ -1,4 +1,4 @@
-<h1 align="center"> Hello! I'm <a href="https://CHRISTOROMO.github.io/My-Portfolio/index.html">CHRISTOPHER TOROMO</a> </h1>
+<h1 align="center"> Hello! I'm <a href="https://ChristopherToromo.github.io/My-Portfolio/index.html">CHRISTOPHER TOROMO</a> </h1>
 
 <h3 align="center">A passionate Data Scientist and Machine Learning Engineer.</h3>
 
@@ -13,7 +13,7 @@
 
 - 📫 You can reach me via **christophertoromo@gmail.com**
 
-- 👨‍💻 All of my projects are available at [CHRISTOROMO](https://github.com/CHRISTOROMO?tab=repositories)
+- 👨‍💻 All of my projects are available at [ChristopherToromo](https://github.com/ChristopherToromo?tab=repositories)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -37,8 +37,8 @@
 <a href="https://www.canva.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/canva/canva-original.svg" width="40" height="40"/> </a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=CHRISTOROMO&show_icons=true&locale=en&layout=compact" alt="CHRISTOROMO" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ChristopherToromo&show_icons=true&locale=en&layout=compact" alt="ChristopherToromo" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=CHRISTOROMO&show_icons=true&locale=en" alt="CHRISTOROMO" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ChristopherToromo&show_icons=true&locale=en" alt="ChristopherToromo" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=estherogutu&" alt="CHRISTOROMO" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=estherogutu&" alt="ChristopherToromo" /></p>
