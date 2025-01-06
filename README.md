@@ -3,7 +3,6 @@
 <h3 align="center">A passionate Data Scientist and Machine Learning Engineer.</h3>
 
 #### My Profile Visits 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=ChristopherToromo.CHRISTOROMO&left_color=green&right_color=red)
 
 <div align="center">
         <img alt="Visitor Stats" 
