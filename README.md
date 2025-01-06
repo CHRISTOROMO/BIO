@@ -4,7 +4,7 @@
 
 #### My Profile Visits 
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=CHRISTOROMO)
+![visitors](https://hits.red/github.svg?user=CHRISTOROMO)
 
 - 💬 Ask me about **Anything Data-related**
 
