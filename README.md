@@ -4,7 +4,10 @@
 
 #### My Profile Visits 
 
-![](https://komarev.com/ghpvc/?username=CHRISTOROMO&color=green)
+<div align="center">
+        <img alt="Visitor Stats" 
+            src="https://widgetbite.com/stats/CHRISTOROMO"/>  
+    </div>
 
 - 💬 Ask me about **Anything Data-related**
 
